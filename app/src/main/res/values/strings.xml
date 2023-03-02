@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Geo-tracker</string>
+    <string name="current_gps_location">Localisation actuel</string>
+    <string name="exporter_trajet_actuel">Exporter trajet actuel</string>
+    <string name="fichier_cree">Fichier créé %1$s </string>
+    <string name="ready_to_generate">Prêt a générer </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_gps_location">Current GPS location</string>
+    <string name="exporter_trajet_actuel">Export current track</string>
+    <string name="fichier_cree">File created %1$s</string>
+    <string name="ready_to_generate">Ready to generate </string>
+
+</resources>
